@@ -1,0 +1,272 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+@media (max-width : 1910px) {
+  .section3-innerdiv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-top: 500px;
+    margin-left: 0px;
+  }
+
+  .section4-maindiv {
+    margin-top: 1000px;
+  }
+
+  .header-navul {
+    margin-left: 300px;
+  }
+}
+
+@media (max-width : 1400px) {
+  .header-navul {
+    display: none;
+  }
+
+  .divburger {
+    display: inline-block;
+  }
+}
+
+@media (max-width : 400px) {
+  .divburger {
+    background-color: #ffffff;
+  }
+
+  .footermaindiv {
+    margin-top: 1200px;
+  }
+
+  .imagewidth {
+    width: 300px;
+  }
+
+  .section8lorem22 {
+    width: 200px;
+  }
+}
+
+@media (max-width : 1300px) {
+  .section2-maindiv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .section8-bottomdiv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .section8-bot2div {
+    margin: 0 auto;
+  }
+
+  .section8-bot1div {
+    margin: 0 auto;
+  }
+
+  .section8-bot3div {
+    margin: 0 auto;
+  }
+
+  .footermaindiv {
+    margin-top: 1000px;
+  }
+}
+
+@media (max-width : 500px) {
+  .section8redline {
+    display: none;
+  }
+
+  .blogsvg {
+    display: none;
+  }
+
+  .imagewidth {
+    width: 300px;
+  }
+
+  .section8abs {
+    display: none;
+  }
+
+  .section8lorem22 {
+    width: 200px;
+  }
+}
+
+@media (max-width : 800px) {
+  .test {
+    margin-left: 0px;
+  }
+
+  .background-imageline {
+    display: none;
+    margin-left: 0px;
+  }
+
+  .section1-divleft {
+    display: none;
+  }
+
+  .section1-divright {
+    display: none;
+  }
+
+  .section5-shari {
+    display: none;
+  }
+
+  .section5-rightdiv {
+    display: none;
+  }
+
+  .section2-maindiv {
+    display: none;
+  }
+
+  .logo2svg {
+    top: 10px;
+  }
+
+  .section7-protein3 {
+    display: none;
+  }
+
+  .section7-protein4 {
+    display: none;
+  }
+
+  .section7redline {
+    display: none;
+  }
+}
+
+@media (max-width : 1620px) {
+  .section6-maindiv1 {
+    display: none;
+  }
+
+  .shopmaindiv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .section7-rightdiv2 {
+    margin-left: 0;
+    margin-top: 1000px;
+  }
+}
+
+@media (max-width : 1000px) {
+  .section7-divleft {
+    margin-left: 0px;
+  }
+
+  .envelsvg {
+    display: none;
+  }
+
+  .section4-features1 {
+    display: none;
+  }
+
+  .section4-redline {
+    display: none;
+  }
+
+  .proteinsvg {
+    display: none;
+  }
+
+  .section3-bannerimg {
+    display: none;
+  }
+
+  .section4-maindiv {
+    margin-top: 100px;
+    height: 2000px;
+  }
+
+  .section4-bottomdiv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .barbellgirl {
+    display: none;
+  }
+
+  .section5-maindiv {
+    margin-top: 500px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .section5-maindiv2 {
+    margin-top: 500px;
+  }
+
+  .section5-maindiv23 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .section6 {
+    height: 2000px;
+  }
+
+  .videobanner {
+    display: none;
+  }
+
+  .videosvg {
+    display: none;
+  }
+}
+
+@media (max-width : 380px) {
+  .divburger {
+    margin-right: 0px;
+  }
+}
